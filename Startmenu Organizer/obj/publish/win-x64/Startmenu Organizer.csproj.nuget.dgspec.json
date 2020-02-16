@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj": {}
+    "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj": {
+    "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
         "projectName": "Startmenu Organizer",
-        "projectPath": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
+        "projectPath": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
         "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.1, 3.1.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.1, 3.1.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.1, 3.1.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

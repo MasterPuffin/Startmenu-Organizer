@@ -1,0 +1,10 @@
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.exe
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.deps.json
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.runtimeconfig.json
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.runtimeconfig.dev.json
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.dll
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\bin\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.pdb
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\obj\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\obj\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.AssemblyInfo.cs
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\obj\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.dll
+C:\Users\johan\Documents\Git\Startmenu-Organizer\Startmenu Organizer\obj\Debug\netcoreapp3.1\win-x64\Startmenu Organizer.pdb

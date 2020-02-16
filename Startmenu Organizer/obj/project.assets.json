@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
       "projectName": "Startmenu Organizer",
-      "projectPath": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
+      "projectPath": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\Startmenu Organizer.csproj",
       "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\source\\repos\\Startmenu Organizer\\Startmenu Organizer\\obj\\",
+      "outputPath": "C:\\Users\\johan\\Documents\\Git\\Startmenu-Organizer\\Startmenu Organizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
