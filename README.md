@@ -7,3 +7,5 @@ This programm does the following
 * Remove empty folders
 
 Works for both the user start menu and the system wide default start menu (required admin rights)
+
+Download the compiled .exe file at https://github.com/MasterPuffin/Startmenu-Organizer/releases
